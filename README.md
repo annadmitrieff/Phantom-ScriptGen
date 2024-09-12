@@ -12,3 +12,7 @@ Supported pre-baked setups:
 To run code:
 
 $python3 ~/PhantomParamSetup/src/slurm_generator.py
+
+TO DO:
+- Extend support to editing `.in` files
+- Extend support to implementing ranges for setup parameters
